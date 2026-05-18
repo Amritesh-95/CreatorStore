@@ -1,4 +1,4 @@
-package org.example.creatorstore;
+package in.nikam.creatorstore;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
